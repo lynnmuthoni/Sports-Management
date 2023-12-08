@@ -1,0 +1,3 @@
+linetmaringo.ReportDamaged
+linetmaringo.ShopIt
+linetmaringo.ShopItem

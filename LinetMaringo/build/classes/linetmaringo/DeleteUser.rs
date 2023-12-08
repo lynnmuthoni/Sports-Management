@@ -1,0 +1,2 @@
+linetmaringo.DeleteUser
+linetmaringo.IdInputPanel
